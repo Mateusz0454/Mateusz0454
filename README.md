@@ -1,6 +1,1 @@
-- 👋 Hi, I'm @Matthew0454
-- 👀 I'm interested in walking in the mountains, developing myself, gaining new experience and skills
-- 🌱 I'm currently learning the DJANGO framework
-- 📫 How to contact me: linkedin: https://www.linkedin.com/in/mateusz-miszczak/?jobid=1234
-- 😄 Pronouns: he/his/hers
-- ⚡ Curiosity: persistent in the goals set.
+
